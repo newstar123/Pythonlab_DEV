@@ -1,0 +1,7 @@
+Fri 25 Nov 2016 07:04:12 - Put 15606981:reporting=False in the queue, number 1.
+Fri 25 Nov 2016 07:04:12 - Put 15608767:reporting=False in the queue, number 2.
+Fri 25 Nov 2016 07:04:46 - Going to delete inactive servers, queue size is 2
+Fri 25 Nov 2016 07:04:46 - Going to delete number 1 inactive server, id is 15606981
+Fri 25 Nov 2016 07:04:46 - https://api.newrelic.com/v2/servers/15606981.json has been deleted
+Fri 25 Nov 2016 07:04:46 - Going to delete number 2 unactive server, id is 15608767
+Fri 25 Nov 2016 07:04:46 - https://api.newrelic.com/v2/servers/15608767.json has been deleted
